@@ -1,5 +1,5 @@
 # HackathonSubmission
-Welcome to the Gen AI Hackathon Würyburg! This repository is the central hub for participants to submit their solutions for the hackathon. Below, you will find the all the details about hackathon , including the objectives,  and submission instructions.
+Welcome to the Gen AI Hackathon Würzburg! This repository is the central hub for participants to submit their solutions for the hackathon. Below, you will find the all the details about hackathon , including the objectives,  and submission instructions.
 
 ## 🗓 Hackathon Information
 
