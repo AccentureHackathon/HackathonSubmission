@@ -3,8 +3,11 @@ Welcome to the Gen AI Hackathon Würyburg! This repository is the central hub fo
 
 🗓 Hackathon Information
 Start : 10:00
+
 Submission Deadline: by 9pm
+
 Presentation Time: Each team will have 10 minutes to present their solution.
+
 Progress Check-ins: Optional midway check-ins for feedback.
 
 🛠 Resources 
